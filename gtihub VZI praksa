@@ -1,4 +1,4 @@
-cd mapaVZI
+cd namizje/mapaVZI
 git init
 git add .
 git commit -m "first commit"
