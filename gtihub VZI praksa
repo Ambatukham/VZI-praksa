@@ -1,4 +1,4 @@
-echo "# VZI-praksa" >> README.md
+cd VZI-praksa
 git init
 git add README.md
 git commit -m "first commit"
