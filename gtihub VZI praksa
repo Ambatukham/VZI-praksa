@@ -1,4 +1,4 @@
-cd VZI-praksa
+cd mapaVZI
 git init
 git add README.md
 git commit -m "first commit"
